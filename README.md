@@ -1,6 +1,6 @@
 - 👋 Hola! Soy @LuciaFIlgueirasOrtiz, tengo 24 años y soy terapista ocupaciones. Trabajé durante 4 años en la industria de salud con niños con discapacidades hasta que gracias a la pandemia decidí hacer un cambio radical en mi vida con la intención de insertarme en el mundo Tech. 
 
-- 🚀 Pronto será una científica de datos. 
+- 🚀 Pronto voy a ser una científica de datos. 
 
 - 👀 Después de recorrer varias tecnologías y conocer campos dentro de la tecnología descubrí que me gusta mucho la investigación con los datos. Comencé a estudiar en Platzi de forma autodidacta y luego me anoté en la carrera de Data Science de CoderHouse. 
 
